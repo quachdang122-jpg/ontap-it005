@@ -1,0 +1,7 @@
+node_modules
+dist
+*.log
+.DS_Store
+
+# Tài liệu môn học: chỉ giữ trên máy, không đưa lên repo public
+docs/*.pdf
